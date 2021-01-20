@@ -27,7 +27,7 @@ Attribute Information:
       -- 13.  thal: 3 = normal; 6 = fixed defect; 7 = reversable defect     
 Attributes types
 -----------------
-Real: 1,4,5,8,10,12
+Real: 1,4,5,8,10,12 
 Ordered:11,
 Binary: 2,6,9
 Nominal:7,3,13
